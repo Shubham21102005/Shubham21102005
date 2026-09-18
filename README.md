@@ -1,6 +1,6 @@
 # Shubham Kumar
 
-Final-year AI/ML undergrad in Bengaluru. I write backend and applied-AI code, and I've drifted toward the plumbing underneath it (job queues, durable workflows, CRDTs) more than the model layer itself.
+Third-year AI/ML undergrad in Bengaluru. I write backend and applied-AI code, and I've drifted toward the plumbing underneath it (job queues, durable workflows, CRDTs) more than the model layer itself.
 
 Currently an SWE intern at [DictationDaddy](https://www.dictationdaddy.com), working on real-time speech-to-text across desktop, Android, and a Cloudflare Workers backend.
 
@@ -24,6 +24,15 @@ Frontend for an AI testing-automation platform: REST and WebSocket data wired in
 
 TypeScript, Python · Node/Express, FastAPI, Next.js, React · PostgreSQL, MongoDB, Redis · BullMQ, Temporal, Docker · Qdrant, LangChain/LangGraph
 
+## GitHub
+
+<a href="https://github.com/Shubham21102005">
+  <img src="https://github-stats-extended.vercel.app/api?username=Shubham21102005&include_all_commits=true&theme=dark_github" alt="GitHub stats" height="165" />
+</a>
+<a href="https://github.com/Shubham21102005">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Shubham21102005&langs_count=4&theme=dark_github" alt="Top languages" height="165" />
+</a>
+
 ## LeetCode
 
 <a href="https://leetcode.com/u/krshubham21102005/">
@@ -36,4 +45,4 @@ TypeScript, Python · Node/Express, FastAPI, Next.js, React · PostgreSQL, Mongo
 
 ## Elsewhere
 
-[krshubham.dev](https://www.krshubham.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krshubham21) · [LeetCode](https://leetcode.com/u/krshubham21102005/) · krshubham21102005@gmail.com
+[krshubham.vercel.app](https://krshubham.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krshubham21) · [LeetCode](https://leetcode.com/u/krshubham21102005/) · krshubham21102005@gmail.com
