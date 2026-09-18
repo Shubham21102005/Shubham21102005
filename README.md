@@ -36,4 +36,4 @@ TypeScript, Python · Node/Express, FastAPI, Next.js, React · PostgreSQL, Mongo
 
 ## Elsewhere
 
-[krshubham.vercel.app](https://krshubham.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krshubham21) · [LeetCode](https://leetcode.com/u/krshubham21102005/) · krshubham21102005@gmail.com
+[krshubham.dev](https://www.krshubham.vercel.app) · [LinkedIn](https://www.linkedin.com/in/krshubham21) · [LeetCode](https://leetcode.com/u/krshubham21102005/) · krshubham21102005@gmail.com
