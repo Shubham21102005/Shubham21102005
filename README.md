@@ -1,6 +1,6 @@
 # Shubham Kumar
 
-Third-year AI/ML undergrad in Bengaluru. I write backend and applied-AI code, and I've drifted toward the plumbing underneath it (job queues, durable workflows, CRDTs) more than the model layer itself.
+Final-year AI/ML undergrad in Bengaluru. I write backend and applied-AI code, and I've drifted toward the plumbing underneath it (job queues, durable workflows, CRDTs) more than the model layer itself.
 
 Currently an SWE intern at [DictationDaddy](https://www.dictationdaddy.com), working on real-time speech-to-text across desktop, Android, and a Cloudflare Workers backend.
 
